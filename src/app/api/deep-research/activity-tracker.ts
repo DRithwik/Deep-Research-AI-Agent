@@ -1,6 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Activity, ResearchState } from './types';
-
 
 export const createActivityTracker = (dataStream: any, researchState: ResearchState) => {
 
