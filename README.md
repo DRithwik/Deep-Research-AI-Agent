@@ -1,6 +1,6 @@
 # Build Deep Research AI Agent with Next.js, Vercel AI SDk and LLMs like Gemini, Deepseek & Gpt-4o
 
-A powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
+A powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports. 
 
 ## Key Features  
 
